@@ -1,0 +1,5 @@
+JINA-CEE Code of Conduct
+ 
+JINA-CEE workshops and conferences are committed to providing a safe, harassment and discrimination-free environment for everyone.
+ 
+Harassment includes offensive verbal comments or jokes related to nationality, gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. All communication should be appropriate for a professional audience including people of many different backgrounds. Be kind to others. Do not insult or put down other attendees. Behave professionally. Participants asked to stop any harassing behavior are expected to comply immediately. JINA-CEE will not allow retaliation against any individual who makes a report of known or suspected harassment. Attendees violating these rules may be asked to leave the event at the sole discretion of the conference organizers.
